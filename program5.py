@@ -1,4 +1,4 @@
-input_string = "Rohan Mahaveer"
+input_string = "Ravali Redddy"
 frequencies = {} 
   
 for char in input_string: 
